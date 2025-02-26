@@ -140,8 +140,26 @@ main {
 }
 
 @media (max-width: 1000px) {
-  #indexFlex > div {
+  #eyeCatch {
     margin-top: 2em;
+  }
+
+  #gotoAbout {
+    margin-top: 2em;
+  }
+
+  #emailUs {
+    margin-top: 1em;
+  }
+
+  #introText {
+    margin-top: 1em;
+    padding-top: 3px;
+    z-index: 0;
+  }
+
+  #contact {
+    padding-right: 5px;
   }
 }
 
