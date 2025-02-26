@@ -109,7 +109,7 @@ main {
   width: 90vw;
   min-height: 40vh;
   height: fit-content;
-  transform: rotate(-5deg);
+  transform: rotate(-3deg);
 
   padding: 0 1em;
   margin-left: 1em;
